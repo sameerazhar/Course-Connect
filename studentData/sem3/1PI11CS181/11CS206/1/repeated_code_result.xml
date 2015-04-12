@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ANSI_X3.4-1968"?>
+<pmd-cpd>
+   <duplication lines="7" tokens="29">
+      <file line="6"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <file line="12"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <codefragment><![CDATA[	scanf("%d", &n);
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");]]></codefragment>
+   </duplication>
+   <duplication lines="6" tokens="24">
+      <file line="6"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <file line="13"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <codefragment><![CDATA[	scanf("%d", &n);
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");]]></codefragment>
+   </duplication>
+   <duplication lines="5" tokens="19">
+      <file line="6"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <file line="14"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <codefragment><![CDATA[	scanf("%d", &n);
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");]]></codefragment>
+   </duplication>
+   <duplication lines="4" tokens="14">
+      <file line="6"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <file line="15"
+            path="/var/www/html/courseconnect/student/server/../../studentData/sem3/1PI11CS181/11CS206/1/main.c"/>
+      <codefragment><![CDATA[	scanf("%d", &n);
+	printf("Hello World\n");
+	printf("Hello World\n");
+	printf("Hello World\n");]]></codefragment>
+   </duplication>
+</pmd-cpd>

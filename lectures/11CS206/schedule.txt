@@ -1,0 +1,58 @@
+﻿Course Objective: C is the most commonly used programming language and the base for all the programming languages. C is close to the machine hardware and working with pointers, bytes and bits, optimized code can be written which work faster. C is the language of choice for programming embedded and mechatronic systems with hardware interfaces. This course provides a through introduction to C programming language starting with the declaration and defining of variables, operators and expressions, control structures. This course also deals with the functions, macros, pointers, arrays, structures, operations on files. This course also provides the understanding of dynamic memory allocation and introduction to data structures Lists and Trees.
+
+
+ Credits:04
+
+ UNIT I                                                                                 10 hours 
+
+ 1         Introduction: Programming in ‗C‘: Language Philosophy, program structure, steps in
+           development and execution of program – pre-process, compile link, load and execute.
+ 2         Variables and constants – Declaration, initialization, assignment, simple input/output        
+           functions, #define and const declaration Operators and expressions – Arithmetic operators, 
+           relational operators : concept of true and false, logical operators: short circuit evaluation etc. 
+ 3         Control Structure – selection : if, switch, looping – while, for, do-while etc. 
+
+ UNIT II                                                                                10 hours 
+
+ 4         Functions - Declaration and prototype, definition, invocation, interface and implementation  
+           etc  
+ 5         Variable (revisited) – life, scope, storage class – global, external static, internal      
+           static, automatic, register, qualifier – long, short 
+
+ UNIT III                                                                                 12 hours 
+
+ 6         Pointers – address operator and dereferencing operator, passing pointer to a variable as 
+           argument to a function (mimic parameter passing by reference) 
+ 7         Array and pointer – attributes of an array, array at compile and array at runtime,
+           initialization – designated initialization of an array(C99).
+ 8         accessing elements of an array - using index expression, pointer expression, pointer 
+           arithmetic, multidimensional array, arrays of character, passing array as an argument 
+           to a function, passing multidimensional array as argument to a function
+ 9         specifying the size of the array parameter (C99), function returning a pointer, pointer
+           to a function, concept of call back, pointers and strings
+
+ UNIT IV                                                                                 10 hours 
+ 10        Structure - attributes of a structure, binary layout of a structure, initialization ,  
+           assignment
+ 11        accessing elements of a structure, passing a structure as argument to a function, passing a 
+           pointer to a structure as argument to a function, pointer to const structure.
+ 12        Union- attributes of a union. Combinations – structure of structures, array of structures, 
+           structure of arrays, sorting and searching using predicates, bitfields 
+
+ UNIT V                                                                                  10 hours        
+ 13        File operations – Physical file, logical file and mode, creating and reading files, random 
+           access, binary files – files of structures 
+ 14        Dynamic memory management – allocation and de allocation, garbage leading to memory leak, 
+           dangling pointer, alias Introduction to data structures – List, tree 
+
+ Text Books:
+ 1. The C Programming Language: Brian W. Kernighan & Dennis Ritchie.
+ 2. Expert C Programming: Deep C Secrets: Van Der Linden. 
+ 3. The C Puzzle book: Feuer
+
+
+
+
+
+
+

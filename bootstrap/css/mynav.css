@@ -1,0 +1,41 @@
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li.active>a
+{
+	filter: none;
+	color: white;
+	background-color: #3366CC;
+	background-image: none;
+}
+
+
+
+.nav-pills>li.active>a:hover, .nav-pills>li>a:hover
+{
+	/* background-color: #0033FF; color: white;*/
+	background-color: #3366FF; color: white;
+}
+
+.courseHover:hover
+{
+    border-color: #0099FF;
+}
+
+/* make sidebar nav vertical */ 
+@media (min-width: 768px) {
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 0;
+    max-height: none;
+  }
+  .sidebar-nav .navbar ul {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li {
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+}
